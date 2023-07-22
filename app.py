@@ -1,7 +1,7 @@
 import openai
 
 # Use OpenAI API Key
-openai.api_key= "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"
+openai.api_key= "Your api key here"
 
 # Ask the user for question
 while True:
